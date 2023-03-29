@@ -100,7 +100,7 @@ class _updateUserState extends State<updateUser> {
                           MaterialStateProperty.all(Size(double.infinity, 50))),
                   child: Text(
                     'Update',
-                    style: TextStyle(fontSize: 22, color: Colors.white),
+                    style: TextStyle(fontSize: 20, color: Colors.white),
                   )),
             ),
           ],
